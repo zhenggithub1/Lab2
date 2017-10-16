@@ -10,6 +10,8 @@ public class test2 {
         String fileName = "C:\\Users\\Administrator\\Desktop\\test.txt";
         String line = "";
         String str = "";
+        
+        //sadgsadasdg sfsdf sdf 
         try//GITHUBÐÞ¸Ä´¦3
         {
             BufferedReader in = new BufferedReader(new FileReader(fileName));
